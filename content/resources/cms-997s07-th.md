@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-997-topics-in-comparative-media-american-pro-wrestling-spring-2007/82a7c50b0f1fd4825d0bf962a656f002_cms-997s07-th.jpg
+file: /media/courses/cms-997-topics-in-comparative-media-american-pro-wrestling-spring-2007/82a7c50b0f1fd4825d0bf962a656f002_cms-997s07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: WWE Raw tonight! (Image courtesy of [Dwyatt1](http://flickr.com/photos/fightline/).)
   credit: ''
   image-alt: A neon sign announces WWE Raw.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: cms-997s07-th.jpg
 uid: 82a7c50b-0f1f-d482-5d0b-f962a656f002

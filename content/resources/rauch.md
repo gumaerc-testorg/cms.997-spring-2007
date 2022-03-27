@@ -5,10 +5,10 @@ file: /media/courses/cms-997-topics-in-comparative-media-american-pro-wrestling-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: rauch.pdf
+type: OCWFile
 uid: 8ea48bda-c297-ae01-a1c8-80c980432ffd
 ---

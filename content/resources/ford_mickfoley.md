@@ -6,10 +6,10 @@ file: /media/courses/cms-997-topics-in-comparative-media-american-pro-wrestling-
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: ford_mickfoley.pdf
+type: OCWFile
 uid: 599979b5-d27f-9579-33ee-13118608f5d1
 ---

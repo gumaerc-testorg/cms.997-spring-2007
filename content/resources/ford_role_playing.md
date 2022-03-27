@@ -6,10 +6,10 @@ file: /media/courses/cms-997-topics-in-comparative-media-american-pro-wrestling-
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: ford_role_playing.pdf
+type: OCWFile
 uid: ecea0136-7fc1-166e-61ba-3d3c7fce9108
 ---

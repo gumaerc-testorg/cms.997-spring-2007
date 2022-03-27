@@ -8,8 +8,8 @@ image_metadata:
   credit: ''
   image-alt: A neon sign announces WWE Raw.
 learning_resource_types: []
-ocw_type: OCWImage
 resourcetype: Image
 title: cms-997s07-th.jpg
+type: OCWImage
 uid: 82a7c50b-0f1f-d482-5d0b-f962a656f002
 ---

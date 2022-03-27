@@ -6,10 +6,10 @@ file: /media/courses/cms-997-topics-in-comparative-media-american-pro-wrestling-
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: ford_mcmahon_emp.pdf
+type: OCWFile
 uid: 8a966666-cc86-36b5-063c-38de13155f80
 ---

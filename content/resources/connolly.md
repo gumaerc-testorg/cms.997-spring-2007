@@ -5,10 +5,10 @@ file: /media/courses/cms-997-topics-in-comparative-media-american-pro-wrestling-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: connolly.pdf
+type: OCWFile
 uid: 0a0be049-9c5a-dcc1-e192-5578b1bef027
 ---

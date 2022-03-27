@@ -5,10 +5,10 @@ file: /media/courses/cms-997-topics-in-comparative-media-american-pro-wrestling-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: vargas.pdf
+type: OCWFile
 uid: 07d91fc5-641a-1030-4714-eaaffab236d6
 ---

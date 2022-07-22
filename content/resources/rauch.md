@@ -5,6 +5,7 @@ file: /courses/cms-997-topics-in-comparative-media-american-pro-wrestling-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: rauch.pdf
 uid: 8ea48bda-c297-ae01-a1c8-80c980432ffd
 ---
 This resource contains an example of a completed term paper.
-

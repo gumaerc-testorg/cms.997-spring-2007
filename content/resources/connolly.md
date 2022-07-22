@@ -5,6 +5,7 @@ file: /courses/cms-997-topics-in-comparative-media-american-pro-wrestling-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: connolly.pdf
 uid: 0a0be049-9c5a-dcc1-e192-5578b1bef027
 ---
 This resource contains an example of a completed term paper.
-

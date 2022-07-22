@@ -6,6 +6,7 @@ file: /courses/cms-997-topics-in-comparative-media-american-pro-wrestling-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ford_excellence.pdf
 uid: 8a7822f8-a26f-123f-ae90-22b1b911d241
 ---
 This resource contains an article on Vince McMahon's incorporation of expose into fiction.
-

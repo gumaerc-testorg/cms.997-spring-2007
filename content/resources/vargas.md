@@ -5,6 +5,7 @@ file: /courses/cms-997-topics-in-comparative-media-american-pro-wrestling-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: vargas.pdf
 uid: 07d91fc5-641a-1030-4714-eaaffab236d6
 ---
 This resource contains an example of a completed term paper.
-

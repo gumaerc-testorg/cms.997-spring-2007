@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: c2bde1e3-b0f0-0eb1-3232-e73d5df4a3ee
 ---
 
@@ -31,10 +31,10 @@ The term paper assignment consists of several steps; meeting these deadlines is 
 
 These papers are presented courtesy of the students, and used with permission.
 
-"Women’s Roles in Professional Wrestling, Examined through the Lita-Trish Rivalry" by Deirdre Connolly ([PDF]({{< baseurl >}}/resources/connolly))
+"Women’s Roles in Professional Wrestling, Examined through the Lita-Trish Rivalry" by Deirdre Connolly ({{% resource_link 0a0be049-9c5a-dcc1-e192-5578b1bef027 "PDF" %}})
 
-"Wrestling with Body Discourse" by Kate James ([PDF]({{< baseurl >}}/resources/james))
+"Wrestling with Body Discourse" by Kate James ({{% resource_link 87a4c12e-ce4f-7c0a-fc94-fccfea8c9e68 "PDF" %}})
 
-"Rumble Roses as Erotic Spectacle" by Peter Rauch ([PDF]({{< baseurl >}}/resources/rauch))
+"Rumble Roses as Erotic Spectacle" by Peter Rauch ({{% resource_link 8ea48bda-c297-ae01-a1c8-80c980432ffd "PDF" %}})
 
-"Professional Wrestling: The Ultimate Storytelling Device" by Carolina D. Vargas ([PDF]({{< baseurl >}}/resources/vargas))
+"Professional Wrestling: The Ultimate Storytelling Device" by Carolina D. Vargas ({{% resource_link 07d91fc5-641a-1030-4714-eaaffab236d6 "PDF" %}})

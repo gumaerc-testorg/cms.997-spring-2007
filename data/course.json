@@ -27,7 +27,9 @@
   },
   "course_title": "Topics in Comparative Media: American Pro Wrestling",
   "course_description": "This class will explore the cultural history and media industry surrounding the masculine drama of professional wrestling. Beginning with wrestling's roots in sport and carnival, the class examines how new technologies and changes in the television industry led to evolution for pro wrestling style and promotion and how shifts in wrestling characters demonstrate changes in the depiction of American masculinity. The class will move chronologically in an examination of how wrestling characters and performances have changed, focusing particularly on the 1950s to the present. Students may have previous knowledge of wrestling but are not required to, nor are they required to be a fan (although it is certainly not discouraged, either).\n\nSpecial thanks to the WWE for allowing us to use various materials and for their participation and help with the course.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.602",
   "primary_course_number": "CMS.997",
   "course_image_thumbnail": {
@@ -37,6 +39,6 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "cdbd4ba8-e8bb-4613-945f-a72e758c54ba",
+  "site_uid": "fb1bd18b-368e-4fc9-85b4-22076d370ad8",
   "title": "Course Metadata"
 }

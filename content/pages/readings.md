@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: 656e2408-c504-ea8d-e22f-b8d50daf4384
 ---
 
@@ -266,7 +266,7 @@ WWE in the 1980s
 {{< tdopen >}}
 
 
-Ford, Sam. "Role-Playing in the Stands: A Symbolic Interactionist Ethnography of Professional Wrestling Fans." ([PDF]({{< baseurl >}}/resources/ford_role_playing))
+Ford, Sam. "Role-Playing in the Stands: A Symbolic Interactionist Ethnography of Professional Wrestling Fans." ({{% resource_link ecea0136-7fc1-166e-61ba-3d3c7fce9108 "PDF" %}})
 
 Benaka, Lee. Interviews with Lou Thesz, Bruno Sammartino, Dave Meltzer.
 
@@ -364,7 +364,7 @@ Masculine melodrama and getting' screwed
 
 Jenkins, Henry III. "Never Trust a Snake: WWF Wrestling as Masculine Melodrama." In _Steel Chair to the Head_. pp. 33-66.
 
-Ford, Sam. "Excellence of Execution: Vince McMahon's Incorporation of Expose into Fiction." ([PDF]({{< baseurl >}}/resources/ford_excellence))
+Ford, Sam. "Excellence of Execution: Vince McMahon's Incorporation of Expose into Fiction." ({{% resource_link 8a7822f8-a26f-123f-ae90-22b1b911d241 "PDF" %}})
 
 Plagens, Peter. "Pinning Reality to the Mat." _Chronicle of Higher Education_ 24 September, 1999, B9.
 
@@ -480,7 +480,7 @@ Gantz, Walter. "WWF RAW Study." Indiana University and Inside Edition.
 Mick Foley, part II
 {{< tdclose >}}
 {{< tdopen >}}
-Ford, Sam. "Mick Foley: Pro Wrestling and the Contradictions of the Contemporary American Hero." ([PDF]({{< baseurl >}}/resources/ford_mickfoley))
+Ford, Sam. "Mick Foley: Pro Wrestling and the Contradictions of the Contemporary American Hero." ({{% resource_link 599979b5-d27f-9579-33ee-13118608f5d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -492,7 +492,7 @@ Ford, Sam. "Mick Foley: Pro Wrestling and the Contradictions of the Contemporary
 WWE as transmedia empire
 {{< tdclose >}}
 {{< tdopen >}}
-Ford, Sam. "The McMahons: Creating a Synergistic Pro Wrestling Media Empire." ([PDF]({{< baseurl >}}/resources/ford_mcmahon_emp))
+Ford, Sam. "The McMahons: Creating a Synergistic Pro Wrestling Media Empire." ({{% resource_link 8a966666-cc86-36b5-063c-38de13155f80 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -620,7 +620,7 @@ Seiter, Ellen. "Wrestling with the Web: Latino Fans and Symbolic Violence." _The
 Contemporary WWE, part III
 {{< tdclose >}}
 {{< tdopen >}}
-Ford, Sam. "World Wrestling Entertainment in Japanese Culture in the 21st Century." ([PDF]({{< baseurl >}}/resources/ford_wwe_japan))
+Ford, Sam. "World Wrestling Entertainment in Japanese Culture in the 21st Century." ({{% resource_link 659974b6-a68a-ed1d-a7f8-520220808c36 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
